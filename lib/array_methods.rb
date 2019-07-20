@@ -1,9 +1,9 @@
 def find_element_index(array, value_to_find)
   counter = 0
- while pets[counter] do		
-   puts pets[counter]
-   counter += 1
-end
+  while array[counter] do		
+    puts pets[counter]
+    counter += 1
+  end
 
 end
 
